@@ -19,6 +19,10 @@
 - [CDN Font Awesome for icons](https://cdnjs.com/)
   - `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />`
 
+## Dev Tools
+
+- [React DevTools](https://www.google.com/search?q=raeact+dev+tools&oq=raeact+dev+tools&aqs=chrome..69i57j0i13l9.3024j0j7&sourceid=chrome&ie=UTF-8)
+
 ## References
 
 - [Tutorial Video](https://learning.oreilly.com/videos/mern-e-commerce-from/9781801077545/9781801077545-video2_1/)
