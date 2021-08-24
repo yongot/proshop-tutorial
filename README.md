@@ -15,7 +15,11 @@
   - `npm i react-bootstrap`
 
 - Install react router (frontend folder)
+
   - `npm i react-router-dom react-router-bootstrap`
+
+- Install axios for REST API call (frontend folder)
+  - `npm i axios`
 
 ### Backend Commands
 
