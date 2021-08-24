@@ -4,6 +4,8 @@
 
   - `rafce`
 
+### Frontend Commands
+
 - Getting start with react app (main folder)
 
   - `npx create-react-app frontend`
@@ -14,6 +16,23 @@
 
 - Install react router (frontend folder)
   - `npm i react-router-dom react-router-bootstrap`
+
+### Backend Commands
+
+- Initialize Backend package (root folder)
+
+  - `npm init`
+  - package name: proshop
+  - version: 1.0.0
+  - description: MERN shopping cart app
+  - entry point: server.js
+
+- Install express package (root folder)
+
+  - `npm i express`
+
+- Start the backend server
+  - `node backend/server`
 
 ## UI Libraries
 
