@@ -9,7 +9,11 @@
   - `npx create-react-app frontend`
 
 - Install react-bootstrap dependencies (frontend folder)
+
   - `npm i react-bootstrap`
+
+- Install react router (frontend folder)
+  - `npm i react-router-dom react-router-bootstrap`
 
 ## UI Libraries
 
