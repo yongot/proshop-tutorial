@@ -4,6 +4,13 @@
 
   - `rafce`
 
+- Run backend server (root folder)
+
+  - `npm run server`
+
+- Run frontend client (root folder)
+  - `npm run client`
+
 ### Frontend Commands
 
 - Getting start with react app (main folder)
@@ -18,7 +25,7 @@
 
   - `npm i react-router-dom react-router-bootstrap`
 
-- Install axios for REST API call (frontend folder)
+- Install axios for HTTP library (frontend folder)
   - `npm i axios`
 
 ### Backend Commands
@@ -36,7 +43,11 @@
   - `npm i express`
 
 - Start the backend server
+
   - `node backend/server`
+
+- Install nodemon and concurrently - dev dependencies (root folder)
+  - `npm i -D nodemon concurrently`
 
 ## UI Libraries
 
