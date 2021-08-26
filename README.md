@@ -49,6 +49,13 @@
 - Install nodemon and concurrently - dev dependencies (root folder)
   - `npm i -D nodemon concurrently`
 
+## Environment Variable Libraries
+
+- [dotenv](https://www.npmjs.com/package/dotenv)
+
+- Install dotenv (root folder)
+  - `npm i dotenv`
+
 ## UI Libraries
 
 - [React Bootstrap](https://react-bootstrap.github.io/)
