@@ -85,7 +85,20 @@
 
 - Read [Node JS ESM doc](https://nodejs.org/api/esm.html)
 
-## Database
+## Database - MongoDB
+
+- [MongoDB](https://www.mongodb.com/)
+- [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+- Local Mongo DB Connection String
+  - `mongodb://127.0.0.1:27017`
+  - Need to start MongoDB Server via services
+
+### Database Library
+
+- MongoDB Object modeling with Node JS - [Mongoose](https://mongoosejs.com/)
+
+- install moogoose library (root folder)
+  - `npm i moogoose`
 
 ## References
 
