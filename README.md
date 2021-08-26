@@ -1,4 +1,8 @@
-## Some Commands
+# MERN E-commerce from Scratch
+
+## Generic
+
+### Some Commands
 
 - Generate React class in Visual Studio Code
 
@@ -10,6 +14,12 @@
 
 - Run frontend client (root folder)
   - `npm run client`
+
+### Dev Tools
+
+- [React DevTools](https://www.google.com/search?q=raeact+dev+tools&oq=raeact+dev+tools&aqs=chrome..69i57j0i13l9.3024j0j7&sourceid=chrome&ie=UTF-8)
+
+## Frontend
 
 ### Frontend Commands
 
@@ -27,6 +37,16 @@
 
 - Install axios for HTTP library (frontend folder)
   - `npm i axios`
+
+### UI Libraries
+
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Material UI](https://material-ui.com/)
+- [Bootswatch](https://bootswatch.com/)
+- [CDN Font Awesome for icons](https://cdnjs.com/)
+  - `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />`
+
+## Backend
 
 ### Backend Commands
 
@@ -49,24 +69,23 @@
 - Install nodemon and concurrently - dev dependencies (root folder)
   - `npm i -D nodemon concurrently`
 
-## Environment Variable Libraries
+### Environment Variable Libraries
 
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
 - Install dotenv (root folder)
   - `npm i dotenv`
 
-## UI Libraries
+### Enable ECMAScript Modules in Node.js
 
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [Material UI](https://material-ui.com/)
-- [Bootswatch](https://bootswatch.com/)
-- [CDN Font Awesome for icons](https://cdnjs.com/)
-  - `<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />`
+- Check your node version
 
-## Dev Tools
+  - `node --version`
+  - output = v14.17.5
 
-- [React DevTools](https://www.google.com/search?q=raeact+dev+tools&oq=raeact+dev+tools&aqs=chrome..69i57j0i13l9.3024j0j7&sourceid=chrome&ie=UTF-8)
+- Read [Node JS ESM doc](https://nodejs.org/api/esm.html)
+
+## Database
 
 ## References
 
