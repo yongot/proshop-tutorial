@@ -13,7 +13,12 @@
   - `npm run server`
 
 - Run frontend client (root folder)
+
   - `npm run client`
+
+- Install console colors (root folder)
+  - [Colors](https://www.npmjs.com/package/color)
+  - `npm i colors`
 
 ### Dev Tools
 
@@ -97,8 +102,8 @@
 
 - MongoDB Object modeling with Node JS - [Mongoose](https://mongoosejs.com/)
 
-- install moogoose library (root folder)
-  - `npm i moogoose`
+- install mongoose library (root folder)
+  - `npm i mongoose`
 
 ## References
 
