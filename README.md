@@ -72,7 +72,19 @@
   - `node backend/server`
 
 - Install nodemon and concurrently - dev dependencies (root folder)
+
   - `npm i -D nodemon concurrently`
+
+- Install hash / encrypt library (root folder)
+
+  - `npm i bcryptjs`
+
+- Import seed data to DB (root folder)
+
+  - `npm run data:import`
+
+- Destroy data in DB (root folder)
+  - `npm run data:destroy`
 
 ### Environment Variable Libraries
 
