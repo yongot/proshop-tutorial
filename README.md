@@ -84,7 +84,12 @@
   - `npm run data:import`
 
 - Destroy data in DB (root folder)
+
   - `npm run data:destroy`
+
+- Install Express Middelware Handler as alternative to try catch block (root folder)
+  - [express-async-handler](https://www.npmjs.com/package/express-async-handler)
+  - `npm i express-async-handler`
 
 ### Environment Variable Libraries
 
